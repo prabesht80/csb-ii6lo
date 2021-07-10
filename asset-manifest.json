@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prabesht80.github.io/csb-ii6lo/static/css/main.edc8e3ef.chunk.css",
+    "main.js": "https://prabesht80.github.io/csb-ii6lo/static/js/main.2b18f806.chunk.js",
+    "main.js.map": "https://prabesht80.github.io/csb-ii6lo/static/js/main.2b18f806.chunk.js.map",
+    "runtime-main.js": "https://prabesht80.github.io/csb-ii6lo/static/js/runtime-main.e2b3aea0.js",
+    "runtime-main.js.map": "https://prabesht80.github.io/csb-ii6lo/static/js/runtime-main.e2b3aea0.js.map",
+    "static/js/2.d0f900a0.chunk.js": "https://prabesht80.github.io/csb-ii6lo/static/js/2.d0f900a0.chunk.js",
+    "static/js/2.d0f900a0.chunk.js.map": "https://prabesht80.github.io/csb-ii6lo/static/js/2.d0f900a0.chunk.js.map",
+    "index.html": "https://prabesht80.github.io/csb-ii6lo/index.html",
+    "static/css/main.edc8e3ef.chunk.css.map": "https://prabesht80.github.io/csb-ii6lo/static/css/main.edc8e3ef.chunk.css.map",
+    "static/js/2.d0f900a0.chunk.js.LICENSE.txt": "https://prabesht80.github.io/csb-ii6lo/static/js/2.d0f900a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b3aea0.js",
+    "static/js/2.d0f900a0.chunk.js",
+    "static/css/main.edc8e3ef.chunk.css",
+    "static/js/main.2b18f806.chunk.js"
+  ]
+}
